@@ -1,0 +1,4 @@
+#!/bin/bash
+SCHOOLselect sav7 in ; do
+    $sav7
+done
